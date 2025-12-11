@@ -7,6 +7,6 @@ def test_product_details():
         "Quantity:30g\n"
         "Price:20"
     )
-    assert product_details("kitkat","p1001","20g", 30) == expected_output
+    assert product_details("kitkat","p1001","30g", 20) == expected_output
 
 
