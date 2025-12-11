@@ -11,6 +11,6 @@ if __name__ == "__main__":
     name = "kitkat"
     pro_id = "p1001"
     quantity = "30g"
-    salary = 20
+    price = 20
     print(product_details(name,pro_id,quantity, price))
 
